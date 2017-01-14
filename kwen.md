@@ -30,7 +30,7 @@ Process: Agile/Scrum, Git/TFS, Jira
 
 # EXPERIENCE
 
-#### Architecture Developer
+#### Software Engineer
 #### IRESS Ltd., Melbourne, 02/2013 - Present (4 years)
 
 **Duties and Responsibilities:**
@@ -69,7 +69,7 @@ Work in Architecture/Tools team to maintain and enhance in-house monitoring syst
 
 - Enhance installation scripts (VB, PowerShell, Batch) to report more accurate messages when error occurs during installation
 
-#### Software Developer
+#### Software Engineer
 #### Autodesk Inc., Singapore, 08/2011 - 10/2012 (1.5 years)
 
 **Duties and Responsibilities:**
@@ -90,7 +90,7 @@ Worked in 3D Architecture team to maintain and enhance a mixed C++/WinForm/WPF/W
 
 - Developed a new application in QT/QML to display the process from a series photos to a 3D model 
 
-#### Senior Software Developer
+#### Software Developer / Senior Software Developer
 #### Tieto Inc., Beijing, 05/2007 - 07/2011 (4 years)
 
 **Duties and Responsibilities:**
@@ -115,8 +115,10 @@ Worked in cross-region development team to maintain SIM Application Toolkit and 
 
 # Education
 
-- **Master of Software Engineering**
-- Beijing Posts and Telecommunications University
+**Master of Software Engineering**
 
-- **Bachelor of Computer Science**
-- Beijing University of Technology
+Beijing Posts and Telecommunications University
+
+**Bachelor of Computer Science**
+
+Beijing University of Technology
